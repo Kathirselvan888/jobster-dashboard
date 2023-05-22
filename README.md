@@ -1,7 +1,6 @@
 ```sh
 npm run install && npm start
 ```
-
 - visit url http://localhost:3000/
 
 #### Setup React App
@@ -50,9 +49,5 @@ npm install normalize.css
 
 - import 'normalize.css' in index.js
 - SET BEFORE 'index.css'
-- replace contents of index.css
-- if any questions about normalize or specific styles
-- Coding Addict - [Default Starter Video](https://youtu.be/UDdyGNlQK5w)
-- Repo - [Default Starter Repo](https://github.com/john-smilga/default-starter)
 
 - project-url https://jobsearch-dashboard.netlify.app/
